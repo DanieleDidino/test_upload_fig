@@ -1,4 +1,5 @@
 # test_upload_fig
 
-Find the figure at [link](https://danieledidino.github.io/test_upload_fig/my_fig.html).
+[A simple figure](https://danieledidino.github.io/test_upload_fig/my_fig.html).
 
+[Figure with dropdown menu](https://danieledidino.github.io/test_upload_fig/dropdown_menu.html).
